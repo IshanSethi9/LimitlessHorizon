@@ -1,4 +1,4 @@
-# 🌐 Limitless Horizon – AI-Powered Classroom Companion
+# 🌐 [Limitless Horizon – AI-Powered Classroom Companion](https://devfolio.co/projects/limitless-horizon-610d)
 
 **Limitless Horizon** is an intelligent, all-in-one tool designed to support classroom activities for teachers and students. It integrates content recommendations, summarization, and attention monitoring to create a more engaging and effective learning environment.
 
@@ -88,4 +88,4 @@ This project is licensed under the MIT License.
 - **LinkedIn:** [Ishan Sethi](https://www.linkedin.com/in/ishansethi09/)
 - **GitHub:** [IshanSethi9](https://github.com/IshanSethi9)
 
-https://devfolio.co/projects/limitless-horizon-610d
+
