@@ -77,9 +77,11 @@ python drowsiness_detection/detect.py
 
 
 🤝 Contributing
+
 Contributions are welcome! Feel free to fork the project and submit a pull request with improvements or bug fixes.
 
 📄 License
+
 This project is licensed under the MIT License.
 
 🔗 Connect with Me
