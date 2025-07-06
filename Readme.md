@@ -86,5 +86,5 @@ Contributions are welcome! Feel free to fork the project and submit a pull reque
 This project is licensed under the MIT License.
 
 🔗 Connect with Me
-LinkedIn: https://www.linkedin.com/in/ishansethi09/
-GitHub: 
+- **LinkedIn:** [Ishan Sethi](https://www.linkedin.com/in/ishansethi09/)
+- **GitHub:** [IshanSethi9](https://github.com/IshanSethi9)
