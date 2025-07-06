@@ -41,7 +41,7 @@ LimitlessHorizon/
 
 ## 💻 Setup Instructions
 
-1. **Clone the repository**
+1. Clone the repository
 ```
 git clone https://github.com/IshanSethi9/LimitlessHorizon.git
 cd LimitlessHorizon
@@ -70,13 +70,10 @@ python drowsiness_detection/detect.py
 
 
 🌟 Future Enhancements
-Merge all tools into a single web dashboard
-
-Add login/auth and teacher dashboards
-
-Upgrade summarizer to use transformer models (e.g., BART, T5)
-
-Track and visualize student engagement metrics
+1. Merge all tools into a single web dashboard
+2. Add login/auth and teacher dashboards
+3. Upgrade summarizer to use transformer models (e.g., BART, T5)
+4. Track and visualize student engagement metrics
 
 
 🤝 Contributing
